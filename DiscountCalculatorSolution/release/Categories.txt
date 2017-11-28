@@ -1,0 +1,8 @@
+MensWear, ,
+Shirts, MensWear,
+Trousers, MensWear,
+Casuals, Trousers, 30
+Jeans, Trousers, 20
+WomensWear, , 50
+Dresses, WomensWear, 
+Footwear, WomensWear, 
